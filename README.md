@@ -151,42 +151,5 @@ Vehicle/road assets extracted from uploaded references
 Thanks to the OpenAI ecosystem
 
 
-
-📬 Contact
-For improvements or guidance:
-Balakram Tudu
-Email: balakramtudu31@gmail.com
-
-
----
-
-## ✔️ Your README is ready!
-
-If you want:
-
-🔥 A **professional project poster (1 page)**  
-📄 A **PDF documentation**  
-🎥 A **project demo video script**  
-☁️ A **Google Colab version**  
-
-Just tell me **"Create all"** or specify which ones you want!
 ```
-### 1️⃣ Create a Virtual Environment
 
-## 🚀 Installation & Setup
-
-### 1️⃣ Create a Virtual Environment
-python -m venv .venv
-source .venv/bin/activate     # Windows: .venv\Scripts\activate
-```bash
-
-### 2️⃣ Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-```
-### 3️⃣ Run the Simulation
-bash
-Copy code
-python src/simulation.py
-```
